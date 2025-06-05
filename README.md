@@ -1,6 +1,4 @@
-# users-management-system
 
-## Clone and checkout to the branch of the technology you want to use and view the code. Fell free to run and test
 
 <img width="1435" alt="Screenshot 2024-04-08 at 21 29 30" src="https://github.com/phegondev/users-management-system/assets/64640469/5c24913d-fa7d-4d85-b0a9-dfc3c87b51fd">
 
